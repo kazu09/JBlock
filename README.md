@@ -54,7 +54,7 @@ class ExampleTest: JBlock(){
 * method
 ```
 @Test
-fun addition_isCorrect() {
+fun example_case() {
   steps("") {
     Given {
       // Please add test code
