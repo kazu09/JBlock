@@ -68,7 +68,7 @@ fun addition_isCorrect() {
   }
 }
 ```
-[example : Please be careful call name （✖ BaseUnitTest, ◯ JBlock）](https://github.com/kazu09/GivenWhenThen-JUnit/blob/main/app/src/test/java/com/kazu/givenwhenthen_junit/BaseUnitTest.kt)
+[example : Please be careful call name （✖ BaseUnitTest, ◯ JBlock）](https://github.com/kazu09/GivenWhenThen-JUnit/blob/main/app/src/test/java/com/kazu/givenwhenthen_junit/MainUnitTest.kt)
 ## explain
 * Overriding beforeEachScenario
   * In BaseUnitTest, beforeEachScenario() is a method that runs before each test scenario.
